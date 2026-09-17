@@ -1,0 +1,16 @@
+$ curl -s https://api.github.com/repos/siddhiparmeshwarshinde123-blip/mcino-Introduction-to-Git-and-GitHub/pulls/1
+
+"number": 1,
+"state": "open",
+"title": "Fix typo",
+"label": "siddhiparmeshwarshinde123-blip:bug-fix-typo",
+"ref": "bug-fix-typo",
+"full_name": "siddhiparmeshwarshinde123-blip/mcino-Introduction-to-Git-and-GitHub",
+"fork": true,
+"base": {
+  "label": "siddhiparmeshwarshinde123-blip:main",
+  "ref": "main"
+},
+"merged": false,
+"mergeable": true,
+"changed_files": 1
